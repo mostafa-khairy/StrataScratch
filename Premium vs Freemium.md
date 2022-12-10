@@ -1,5 +1,7 @@
 /*
+
 https://platform.stratascratch.com/coding/10300-premium-vs-freemium?tabname=question
+
 */
 
 ```sql
